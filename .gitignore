@@ -1,0 +1,8 @@
+# Ignore node_modules in fronteND
+frontend/node_modules/
+
+# Ignore .env in backend
+/backend/.env
+
+# Ignore __pycache__ in backend
+backend/__pycache__
